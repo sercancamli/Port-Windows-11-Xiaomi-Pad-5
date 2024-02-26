@@ -8,8 +8,9 @@
 ## Dil
 [```Русский```](/README-RU.md) | [```English```](/README.md) | [```Español```](/guide/Español/README-es.md) | [```Italian```](/guide/Italian/README-it.md) | [```Japanese```](/guide/Japanese/README-ja.md) | [```Traditional Chinese```](/guide/Traditional%20Chinese/README-tw.md) | **```Turkish```** | [```Ukrainian```](/guide/Ukrainian/README-uk.md) | [```Vietnamese```](/guide/Vietnamese/README-vi.md)
 
-> [!NOTE]
-> İngilizce dışındaki diller her zaman güncel olmayabilir 
+> ⚠️ NOT
+> 
+> İngilizce dışındaki diğer diller her zaman güncel olmayabilir 
 
 ## ⚠️ Uyarı
 
@@ -17,7 +18,8 @@ Brick edilmiş cihazlardan, kayıp recovery bölümlerinden, ölü xiaomi fabrik
 Bu proje geliştirme aşamsındadır. Buradaki bütün dosyalar başkarının kaykısı sayesindedir. Burada, elde etmeyi başardığımız çalışan dosyalarla bir rehber bulacaksınız. Bu hassas bir süreçtir, risk almayı göze alarak yapın ve adımları dikkatlice takip edin.
 
 **TABLETİNİZİ YA DA TABLETİN BÖLÜM TABLOSUNU MODİFİYE ETMEKTEN RAHATSIZSANIZ YA DA TABLETİNİZİ BRICK ETMEKTEN KORKUYORSANIZ ŞU AN UZAKLAŞIN!!! DİKKAT, TABLETİNİZİ BRICK EDERSENİZ KENDİ BAŞINIZASINIZ!!! BU KONUDA SİZİ UYARIYORUZ!!! **
-> [!Dikkat]
+> ⚠️ **Dikkat**
+> 
 > **LÜTFEN YOUTUBE'DA VEYA BAŞKA BİR PLATFORMDA BULUNAN VIDEO REHBERLERİ KULLANMAYIN! BU VIDEOLAR ESKİDİR VE BUNLARI KULLANARAK CİHAZINIZI BRICK EDEBİLİRSİNİZ! İLLA Kİ BİR VIDEO REHBERE İHTİYACINIZ VARSA [ArtoSeVeN](https://www.youtube.com/channel/UCYjwfxlYlJ7Nnzv01oszQvA) TARAFINDAN HAZIRLANMIŞ BU [VIDEO REHBERİ](https://youtu.be/BbgTbTGbXYg) KULLANIN**
 
 
@@ -28,7 +30,7 @@ Bu proje geliştirme aşamsındadır. Buradaki bütün dosyalar başkarının ka
   
 - [Kaldırma](uninstall-tr.md)
 
-## Çeşitli
+## Diğer
 - [Proje Durumu](status.md)
   
 - [Sorun giderme](troubleshooting-tr.md)
