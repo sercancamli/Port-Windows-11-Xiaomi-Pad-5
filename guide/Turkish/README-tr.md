@@ -1,7 +1,7 @@
 <img align="right" src="https://raw.githubusercontent.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/main/nabu.png" width="425" alt="Windows 11 Running On A Xiaomi Pad 5">
 
 
-# Xiaomi Pad 5'te Windows çalıştırma
+# Xiaomi Pad 5'te Windows Çalıştırma
 
 [![Telegram](https://img.shields.io/badge/Chat-Telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/nabuwoa)
 
@@ -13,19 +13,18 @@
 
 ## ⚠️ Uyarı
 
-Tuğlalı cihazlardan, eksik kurtarma bölümlerinden, ölü xiaomi fabrika işçilerinden sorumlu değiliz kovboylar, ölü pmic'ler, ölü ram, ölü ekran ic'leri, ölü cpu'lar, herhangi bir xiaomi maskaralıkları, ölü kediler veya köpekler, nükleer savaşlar veya alarm için android'e geri dönmeyi unuttuğunuz için kovuluyorsunuz.
+Brick edilmiş cihazlardan, kayıp recovery bölümlerinden, ölü xiaomi fabrika işçilerinden, bozuk şarj soketinden, bozuk bellekten, bozuk ekrandan, bozuk işlemciden, herhangi bir xiaomi saçmalığından, ölü kedilerden ve köpeklerden, nükleer savaşlardan ya da alarm için android'e boot etmeyi unuttuğundan dolayı işten kovulmandan biz sorumlu değiliz. 
+Bu proje geliştirme aşamsındadır. Buradaki bütün dosyalar başkarının kaykısı sayesindedir. Burada, elde etmeyi başardığımız çalışan dosyalarla bir rehber bulacaksınız. Bu hassas bir süreçtir, risk almayı göze alarak yapın ve adımları dikkatlice takip edin.
 
-Bu proje geliştirme aşamasındadır, buradaki tüm dosyalara diğer kullanıcılar tarafından katkıda bulunulmuştur, burada almayı başardığımız çalışma dosyalarını içeren bir rehber bulacaksınız. Bu hassas bir süreçtir, kendi sorumluluğunuzdadır yapın ve tüm adımları dikkatlice izleyin.
-
-**TABLETINIZI VEYA BÖLÜM TABLOSUNU MODIFIYE ETMEKTE RAHAT DEĞILSENIZ VEYA CIHAZINIZI TUĞLALAMA PARANOYASIYSANIZ, ŞIMDI TIKLAYIN!! UYARILDINIZ, CIHAZINIZI TUĞLA HALINE GETIRIRSENIZ KENDI BAŞINIZASINIZ!! YİNE! UYARILDINIZ!!**
-> [!WARNING]
-> **LÜTFEN YOUTUBE'DA VEYA BAŞKA BIR PLATFORMDA VIDEO KILAVUZLARI KULLANMAYIN! BU VIDEOLAR MODASI GEÇMIŞ VE BUNLARI KULLANARAK CIHAZINIZI TUTABILIRSINIZ! KESINLIKLE BIR VIDEO KILAVUZUNA IHTIYACINIZ VARSA, [ArtoSeVeN](https://www.youtube.com/channel/UCYjwfxlYlJ7Nnzv01oszQvA) TARAFINDAN BU [VİDEO KILAVUZU](https://youtu.be/BbgTbTGbXYg) KULLANIN**
+**TABLETİNİZİ YA DA TABLETİN BÖLÜM TABLOSUNU MODİFİYE ETMEKTEN RAHATSIZSANIZ YA DA TABLETİNİZİ BRICK ETMEKTEN KORKUYORSANIZ ŞU AN UZAKLAŞIN!!! DİKKAT, TABLETİNİZİ BRICK EDERSENİZ KENDİ BAŞINIZASINIZ!!! BU KONUDA SİZİ UYARIYORUZ!!! **
+> [!Dikkat]
+> **LÜTFEN YOUTUBE'DA VEYA BAŞKA BİR PLATFORMDA BULUNAN VIDEO REHBERLERİ KULLANMAYIN! BU VIDEOLAR ESKİDİR VE BUNLARI KULLANARAK CİHAZINIZI BRICK EDEBİLİRSİNİZ! İLLA Kİ BİR VIDEO REHBERE İHTİYACINIZ VARSA [ArtoSeVeN](https://www.youtube.com/channel/UCYjwfxlYlJ7Nnzv01oszQvA) TARAFINDAN HAZIRLANMIŞ BU [VIDEO REHBERİ](https://youtu.be/BbgTbTGbXYg) KULLANIN**
 
 
-## Başlamak
+## Başlangıç
 - [Kurulum](1-partition-tr.md)
   
-- [Çift önyükleme Kurulumu](dualboot-tr.md)
+- [Dualboot (çift sistem) Kurulumu](dualboot-tr.md)
   
 - [Kaldırma](uninstall-tr.md)
 
@@ -38,7 +37,7 @@ Bu proje geliştirme aşamasındadır, buradaki tüm dosyalara diğer kullanıc�
   
 - ~[Yeniden yükleme](reinstall-tr.md)~
   
-- [UEFI Güncelleniyor](UEFI-updating-tr.md)
+- [UEFI Güncelleme](UEFI-updating-tr.md)
   
 - [Faydalı uygulamalar ve talimatlar](/guide/Additional-materials/Additional-materials-tr.md)
 
