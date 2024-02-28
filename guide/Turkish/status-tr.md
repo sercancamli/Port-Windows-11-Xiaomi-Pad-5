@@ -4,9 +4,9 @@
 
 ## Projenin durumu
 
-Stabil. Birkaç bileşen dışında hemen hemen her şey çalışmaktadır.
+Stabil. Birkaç bileşen dışında hemen hemen her şey  çalışmaktadır.
 
-#### Özellikler
+#### Features
 
 - [X] Hazırda Beklet / Uyku Modu
 - [X] Ses
@@ -30,7 +30,7 @@ Stabil. Birkaç bileşen dışında hemen hemen her şey çalışmaktadır.
 - [ ] Xiaomi Kalem şarj desteği
 - [ ] Kamera
 
-#### Sensörler
+#### Sensors
 
 - [X] İvmeölçer
 - [X] Jiroskop
