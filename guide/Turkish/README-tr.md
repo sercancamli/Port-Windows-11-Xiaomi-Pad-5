@@ -8,7 +8,7 @@
 ## Dil
 [```Русский```](/README-RU.md) | [```English```](/README.md) | [```Español```](/guide/Español/README-es.md) | [```Italian```](/guide/Italian/README-it.md) | [```Japanese```](/guide/Japanese/README-ja.md) | [```Traditional Chinese```](/guide/Traditional%20Chinese/README-tw.md) | **```Turkish```** | [```Ukrainian```](/guide/Ukrainian/README-uk.md) | [```Vietnamese```](/guide/Vietnamese/README-vi.md)
 
-> ⚠️ NOT
+> [!WARNING]
 > 
 > İngilizce dışındaki diğer diller her zaman güncel olmayabilir 
 
