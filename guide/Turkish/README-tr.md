@@ -33,15 +33,17 @@ Bu proje geliştirme aşamasındadır. Buradaki tüm dosyalar birçok kullanıc�
 ## Diğer
 - [Proje Durumu](status-tr.md)
   
-- [Sorun giderme](troubleshooting-tr.md)
+- [Sorun Giderme](troubleshooting-tr.md)
   
 - [Sürücüleri Güncelleme](update-tr.md)
   
-- [Yeniden kurulum](reinstall-tr.md)
+- [Yeniden Kurulum](reinstall-tr.md)
   
 - [UEFI Güncelleme](UEFI-updating-tr.md)
+
+- [Andoid'i Yeniden Rootlama](Re-rooting-tr.md)
   
-- [Faydalı uygulamalar ve talimatlar](/guide/Turkish/Additional-materials-tr.md)
+- [Faydalı Uygulamalar ve Talimatlar](/guide/Turkish/Additional-materials-tr.md)
 
 
 
